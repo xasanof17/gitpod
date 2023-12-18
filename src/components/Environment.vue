@@ -8,7 +8,7 @@ import DevEnvImage from "@assets/dev-environment.png"
       <h2 class="mb-2 text-xl font-bold text-primary md:text-2xl xl:text-4xl">
         Think CI/CD for dev environments
       </h2>
-      <p class="text-base font-normal text-primary/80 md:text-lg xl:text-xl">
+      <p class="text-base font-medium text-primary/80 md:text-lg xl:text-xl">
         We invented prebuilds so application code, configuration and infrastructure can all be
         stored as machine-executable code in your git repositories and applied to dev environments
         automatically and continuously.
