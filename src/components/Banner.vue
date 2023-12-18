@@ -21,12 +21,7 @@ import HeroImage from "@assets/hero.png"
         Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
       </p>
       <div class="item-center flex space-x-6">
-        <a
-          href="#"
-          class="rounded-2xl bg-[#FFAE33] px-12 py-3 text-base font-bold text-black md:text-lg"
-        >
-          Try Now
-        </a>
+        <a href="#" class="yellow-btn"> Try Now </a>
         <p class="text-sm font-medium text-primary md:text-base">
           Open a workspace. <br />
           Start from any Git context.
