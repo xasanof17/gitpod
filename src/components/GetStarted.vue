@@ -3,7 +3,7 @@ import { workspaces } from "@/constants/workspaces"
 </script>
 
 <template>
-  <section id="get_started" class="container mb-[80px] flex flex-col md:mb-[120px] xl:mb-[160px]">
+  <section id="get_started" class="container flex flex-col pb-[80px] md:pb-[120px] xl:pb-[160px]">
     <h2
       role="heading"
       class="mb-7 text-center text-xl font-bold text-primary md:text-3xl xl:mb-12 xl:text-5xl"
@@ -155,10 +155,11 @@ import { workspaces } from "@/constants/workspaces"
                 class="h-8 w-8 rounded-sm object-cover"
               />
               <!-- Use the workspace.title property for the workspace title -->
-              <h4>{{ workspace.title }}</h4>
+              <h4 class="text-base font-normal md:text-lg xl:text-xl">{{ workspace.title }}</h4>
             </div>
             <a href="#" class="rounded-xl bg-primary px-5 py-1 text-base font-normal text-white"
-              >Launch <span class="hidden md:block">workspace</span></a
+              ><span class="block md:hidden">Launch</span>
+              <span class="hidden md:block">Launch workspace</span></a
             >
           </div>
         </div>

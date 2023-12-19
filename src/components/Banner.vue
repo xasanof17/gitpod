@@ -8,7 +8,7 @@ import HeroImage from "@assets/hero.png"
 <template>
   <section
     id="hero"
-    class="container my-10 flex flex-col items-center justify-between space-y-10 lg:flex-row lg:space-y-0 xl:my-14"
+    class="container py-10 flex flex-col items-center justify-between space-y-10 lg:flex-row lg:space-y-0 xl:my-14"
   >
     <div class="flex flex-col items-center justify-center lg:items-start">
       <h1 class="text-3xl font-bold text-primary md:text-5xl xl:text-7xl">
