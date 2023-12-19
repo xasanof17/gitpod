@@ -35,7 +35,7 @@ const currentYear = new Date().getFullYear().toString()
             ></span
           >
         </p>
-        <a class="flex items-center space-x-3">
+        <a href="https://milleniumcompany.tech" class="flex items-center space-x-3">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="24"
