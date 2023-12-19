@@ -25,7 +25,7 @@ export default {
 </script>
 
 <template>
-  <header class="sticky left-0 top-0 z-50 py-3 shadow backdrop-blur-md">
+  <header class="sticky left-0 top-0 z-50 bg-white py-3 shadow">
     <nav class="container flex items-center justify-between">
       <a href="#">
         <img :src="Logo" alt="GitPod" class="object-cover" />

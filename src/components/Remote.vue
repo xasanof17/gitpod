@@ -17,7 +17,7 @@ import IconFirefox from "./icons/IconFirefox.vue"
       alt="code editor image"
       class="h-[250px] w-full md:h-[400px] lg:h-[600px] xl:h-[800px]"
     />
-    <div class="mx-auto mt-14 flex w-full max-w-4xl flex-col items-center justify-center">
+    <div class="mx-auto mt-6 flex w-full max-w-4xl flex-col items-center justify-center lg:mt-14">
       <p
         class="mx-auto mb-10 text-center text-base font-medium text-primary/80 md:text-lg xl:text-xl"
       >
