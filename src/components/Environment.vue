@@ -3,7 +3,7 @@ import DevEnvImage from "@assets/dev-environment.png"
 </script>
 
 <template>
-  <section id="environment" class="container mb-10 grid grid-cols-1 gap-x-16 lg:grid-cols-2">
+  <section id="features" class="container mb-10 grid grid-cols-1 gap-x-16 lg:grid-cols-2">
     <div class="flex flex-col">
       <h2 class="mb-2 text-xl font-bold text-primary md:text-2xl xl:text-4xl">
         Think CI/CD for dev environments

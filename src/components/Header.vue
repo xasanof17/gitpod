@@ -27,7 +27,7 @@ export default {
 <template>
   <header class="sticky left-0 top-0 z-50 bg-white py-3 shadow">
     <nav class="container flex items-center justify-between">
-      <a href="#">
+      <a href="https://milleniumcompany.tech" target="_blank">
         <img :src="Logo" alt="GitPod" class="object-cover" />
       </a>
       <ul class="hidden items-center space-x-7 lg:flex">
@@ -37,7 +37,7 @@ export default {
           </a>
         </li>
       </ul>
-      <a href="#" class="hidden rounded-2xl bg-primary px-4 py-2 text-base text-white lg:block"
+      <a href="https://milleniumcompany.tech" target="_blank" class="hidden rounded-2xl bg-primary px-4 py-2 text-base text-white lg:block"
         >Login</a
       >
       <button type="button" class="flex items-center justify-center lg:hidden" @click="toggleMenu">

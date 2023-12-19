@@ -28,11 +28,11 @@ import IconFirefox from "./icons/IconFirefox.vue"
       <div
         class="inline-flex flex-col items-center space-y-3 md:flex-row md:space-x-4 md:space-y-0"
       >
-        <a href="#" class="flex items-center space-x-3 rounded-xl bg-white px-4 py-2 shadow-lg">
+        <a href="https://milleniumcompany.tech" target="_blank" class="flex items-center space-x-3 rounded-xl bg-white px-4 py-2 shadow-lg">
           <IconChromium />
           <span class="text-base font-bold text-primary">Chrome Extension</span>
         </a>
-        <a href="#" class="flex items-center space-x-3 rounded-xl bg-white px-4 py-2 shadow-lg">
+        <a href="https://milleniumcompany.tech" target="_blank" class="flex items-center space-x-3 rounded-xl bg-white px-4 py-2 shadow-lg">
           <IconFirefox />
           <span class="text-base font-bold text-primary">Firefox Extension</span>
         </a>

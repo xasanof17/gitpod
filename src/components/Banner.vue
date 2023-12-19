@@ -21,20 +21,20 @@ import HeroImage from "@assets/hero.png"
         Spin up fresh, automated dev environments for each task, in the cloud, in seconds.
       </p>
       <div class="item-center flex space-x-6">
-        <a href="#" class="yellow-btn"> Try Now </a>
+        <a href="https://milleniumcompany.tech" target="_blank" class="yellow-btn"> Try Now </a>
         <p class="text-sm font-medium text-primary md:text-base">
           Open a workspace. <br />
           Start from any Git context.
         </p>
       </div>
       <div class="mt-5 flex items-center space-x-6">
-        <a href="#">
+        <a href="https://milleniumcompany.tech" target="_blank">
           <IconGitlab />
         </a>
         <a href="https://github.com/xasanof17" target="_blank">
           <IconGithub />
         </a>
-        <a href="#">
+        <a href="https://milleniumcompany.tech" target="_blank">
           <IconBucket />
         </a>
       </div>

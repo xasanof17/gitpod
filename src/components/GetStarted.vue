@@ -3,7 +3,7 @@ import { workspaces } from "@/constants/workspaces"
 </script>
 
 <template>
-  <section id="get_started" class="container flex flex-col pb-[80px] md:pb-[120px] xl:pb-[160px]">
+  <section id="docs" class="container flex flex-col pb-[80px] md:pb-[120px] xl:pb-[160px]">
     <h2
       role="heading"
       class="mb-7 text-center text-xl font-bold text-primary md:text-3xl xl:mb-12 xl:text-5xl"
@@ -22,7 +22,8 @@ import { workspaces } from "@/constants/workspaces"
         </p>
         <div class="my-10 flex flex-col space-y-4 xl:my-16">
           <a
-            href="#"
+            href="https://milleniumcompany.tech"
+            target="_blank"
             class="flex items-center space-x-3 rounded-xl bg-[#FC6D26] px-7 py-2 text-base font-medium text-white shadow"
             ><svg
               xmlns="http://www.w3.org/2000/svg"
@@ -71,7 +72,8 @@ import { workspaces } from "@/constants/workspaces"
             <span>Continue with GitLab</span></a
           >
           <a
-            href="#"
+            href="https://milleniumcompany.tech"
+            target="_blank"
             class="flex items-center space-x-3 rounded-xl bg-primary px-7 py-2 text-base font-medium text-white shadow"
           >
             <svg
@@ -98,7 +100,8 @@ import { workspaces } from "@/constants/workspaces"
             <span>Continue with GitHub</span></a
           >
           <a
-            href="#"
+            href="https://milleniumcompany.tech"
+            target="_blank"
             class="flex items-center space-x-3 rounded-xl bg-[#2684FF] px-7 py-2 text-base font-medium text-white shadow"
           >
             <svg
@@ -157,7 +160,10 @@ import { workspaces } from "@/constants/workspaces"
               <!-- Use the workspace.title property for the workspace title -->
               <h4 class="text-base font-normal md:text-lg xl:text-xl">{{ workspace.title }}</h4>
             </div>
-            <a href="#" class="rounded-xl bg-primary px-5 py-1 text-base font-normal text-white"
+            <a
+              href="https://milleniumcompany.tech"
+              target="_blank"
+              class="rounded-xl bg-primary px-5 py-1 text-base font-normal text-white"
               ><span class="block md:hidden">Launch</span>
               <span class="hidden md:block">Launch workspace</span></a
             >
